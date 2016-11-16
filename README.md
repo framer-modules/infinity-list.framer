@@ -7,7 +7,7 @@ A Framer sample for infinity looping list
 
 > Compatible with all devices.
 
-# Screen
+# Preview
 ![ScreenShot](screenrecord.gif)
 
 # License
