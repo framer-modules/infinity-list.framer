@@ -11,4 +11,4 @@ A Framer sample for infinity looping list
 ![ScreenShot](screenrecord.gif)
 
 # License
-Intro.framer is released under the MIT license. See LICENSE for details.
+infinity-list.framer is released under the MIT license. See LICENSE for details.
